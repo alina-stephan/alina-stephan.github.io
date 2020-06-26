@@ -15,4 +15,4 @@ Sheldon's best friend is Dr. Leonard Hofstadter who lived with Sheldon for many 
 
 >While we live in a deterministic universe, you do have free will. Now sit down.
 
-<img src = "https://static.kino.de/wp-content/uploads/2016/08/sheldon-cooper-rcm1024x0u.jpg"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jim_Parsons_at_PaleyFest_2013.jpg"/>
